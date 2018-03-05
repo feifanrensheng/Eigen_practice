@@ -1,0 +1,3 @@
+/home/zn/useEigen/build/CMakeFiles/edit_cache.dir
+/home/zn/useEigen/build/CMakeFiles/rebuild_cache.dir
+/home/zn/useEigen/build/CMakeFiles/useMatrix.dir
